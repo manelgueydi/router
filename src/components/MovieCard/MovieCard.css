@@ -1,0 +1,16 @@
+.movie{
+    border: 1px solid rgb(171, 63, 63);
+    width: 40%;
+}
+.titre{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    text-align: center;
+    color: rgb(12, 7, 82);
+}
+.desc{
+    display: flex;
+    position:static;
+   font-style: italic;
+    
+}
